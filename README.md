@@ -2,10 +2,9 @@
 HotelBookingAPI - система бронирования отеля на ASP.NET Core 8.0 с аутентификацией JWT
 
 ## Предварительные требования
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) или [VS Code](https://code.visualstudio.com/)
-- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (или LocalDB)
-- [Git](https://git-scm.com/)
+- .NET 8.0 SDK
+- Visual Studio 2022
+- Git
 
 ## Установка и запуск
 
